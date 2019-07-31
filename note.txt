@@ -1,0 +1,3 @@
+https://angular.io/tutorial/toh-pt2
+
+Add a click event binding
